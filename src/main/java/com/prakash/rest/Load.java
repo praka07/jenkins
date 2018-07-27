@@ -5,7 +5,7 @@ import javax.ws.rs.Path;
 public class Load {
 	@GET
 	public String retutnSucessMsg(){
-		return "Welcome Aboard !!";
+		return "Welcome Aboard !!!";
 		
 	}
 
